@@ -14,3 +14,6 @@
 
 
 ![Sowad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sowad112&show_icons=true&theme=radical)
+
+![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sowad112&theme=dark)
+
