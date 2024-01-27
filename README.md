@@ -1,7 +1,5 @@
-# Hi there! 👋
-
-I'm Sowad
-
+# Hi there! I'm Sowad 👋
+# About Me
 - 🔭 I’m currently working on Something
 - 😄 I am a student
 - 🌱 I’m currently learning Technology Skills
